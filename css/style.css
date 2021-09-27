@@ -6,6 +6,15 @@
 
 body {
     padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    max-width: 200px;
+}
+
+.logo img {
+    width: 100%;
 }
 
 h1 {
@@ -15,6 +24,6 @@ h1 {
 
 ul li {
     list-style: none;
-    margin-top: 20px;
+    margin-top: 25px;
     font-weight: bold;
 }
